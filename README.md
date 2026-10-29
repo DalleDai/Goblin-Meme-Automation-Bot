@@ -34,7 +34,7 @@ Automate your Goblin Meme journey effortlessly — mine, open boxes, and manage 
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/cryptodai3/Goblin-Meme-Automation-Bot.git
+git clone https://github.com/DalleDai/Goblin-Meme-Automation-Bot.git
 cd Goblin-Meme-Automation-Bot
 ````
 
